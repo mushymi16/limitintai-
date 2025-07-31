@@ -75,10 +75,4 @@ Frontend → Backend → OpenAI → Backend → Frontend
 
 ## ✅ Files Included
 - Complete project (frontend + backend)
-- Ready for GitHub Pages + Render deployment
-- Uses OpenAI GPT-3.5 API
 
----
-
-## ✅ Author
-Created with 🥷 Code Ninja – Full Stack AI Integration Helper
